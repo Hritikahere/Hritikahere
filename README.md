@@ -1,4 +1,3 @@
-[![MasterHead](https://tenor.com/view/programming-gif-25868426)]
 <h1 align="center">Hi 👋, I'm Hritika</h1>
 <h3 align="center">I am a Data Science aspirant specially into Machine Learning, NLP, Analytics and Deep Learning</h3>
 <img align="right" alt="Coding" width ="400" src="https://tenor.com/view/programming-gif-25868426">
