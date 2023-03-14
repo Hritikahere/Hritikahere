@@ -8,6 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🔭 I am a Data Science aspirant specially into Machine Learning, NLP, Analytics and Deep Learning
 - 🌱 I’m currently learning **MLops, Data Analytics, Data Science, Computer Vision**
 - 💬 Ask me about **Deep Learning, Data Science**
 - 📫 How to reach me **hritikasharma4321@gmail.com**
