@@ -9,6 +9,8 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **MLops**
+- 💬 Ask me about **Deep Learning, Data Science**
+- 📫 How to reach me **hritikasharma4321@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
