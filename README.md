@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hritika</h1>
 <h3 align="center">I am a Data Science aspirant specially into Machine Learning, NLP, Analytics and Deep Learning</h3>
-<img align="right" alt="Coding" width ="200" src="https://tenor.com/view/programming-gif-25868426.gif">
+<img align="right" alt="Coding" width ="150" src="https://tenor.com/view/programming-gif-25868426.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hritikahere&label=Profile%20views&color=0e75b6&style=flat" alt="hritikahere" /> </p>
 
