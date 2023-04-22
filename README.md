@@ -4,9 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hritikahere&label=Profile%20views&color=0e75b6&style=flat" alt="hritikahere" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hritikahere" alt="hritikahere" /></a> </p>
-
-
 
 - 🔭 I am a Data Science aspirant specially into Machine Learning, NLP, Analytics and Deep Learning
 - 🌱 I’m currently learning **MLops, Data Analytics, Data Science, Computer Vision**
