@@ -7,7 +7,7 @@
 
 - 🔭 I am a Data Science aspirant specially into Machine Learning, NLP, Analytics and Deep Learning
 - 🌱 I’m currently learning **MLops, Data Analytics, Data Science, Computer Vision**
-- 💬 Ask me about **Deep Learning, Data Science**
+- 💬 Ask me about **Deep Learning, Data Science and Analysis Topics**
 - 📫 How to reach me **hritikasharma4321@gmail.com**
 
 ### Blogs posts
